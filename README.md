@@ -2,7 +2,7 @@
 Relógio Digital em Js
 
 
-◉ Exibe Hora com minutos e segundos segundo o formato brasileiro.
+• Exibe Hora com minutos e segundos segundo o formato brasileiro.
 
 Usa o a biblioteca Date do Js.
 
